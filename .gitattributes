@@ -1,0 +1,3 @@
+
+# Preserve the deployed build byte-for-byte; hide generated bundle diffs.
+router-ui/** -text -diff -whitespace linguist-generated=true
